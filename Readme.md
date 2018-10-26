@@ -16,7 +16,7 @@ The wrapper looks for local Microsoft Office Lock-Files (Word, Excel, Visio) of 
 * .xlsm
 * .vsd
 
-If such a file is found, the file is propably opend and must not be opend by another user.
+If such a file is found, the file is propably open and must not be opend by another user.
 
 # Requirements to make it work
 * Nextcloud Sync Client
