@@ -23,3 +23,4 @@ If such a file is found, the file is propably open and must not be opend by anot
 * Edit `<Path to Nextcloud-Sync-Client>\sync-exclude.lst`
 * Add `*~` to sync-exclude.lst (needs administrative permissions)
 * Configure it to sync hidden files
+* Make the wrapper the standard application for the above mentioned files
